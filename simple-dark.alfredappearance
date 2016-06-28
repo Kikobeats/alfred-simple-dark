@@ -14,36 +14,36 @@
         "font" : "System Light",
         "color" : "#212121FF"
       },
-      "backgroundSelected" : "#00000000",
+      "backgroundSelected" : "#212121FF",
       "text" : {
-        "size" : 23,
+        "size" : 18,
         "colorSelected" : "#EBEBEBFF",
         "font" : "System Light",
         "color" : "#515151FF"
       },
-      "iconPaddingHorizontal" : 5,
+      "iconPaddingHorizontal" : 8,
       "paddingVertical" : 8,
       "iconSize" : 40
     },
     "search" : {
-      "paddingVertical" : 2,
+      "paddingVertical" : 1,
       "background" : "#00000000",
       "spacing" : 10,
       "text" : {
-        "size" : 32,
+        "size" : 34,
         "colorSelected" : "#FFFFFFFF",
         "font" : "System Light",
         "color" : "#EBEBEBFF"
       },
-      "backgroundSelected" : "#FFFFFF07"
+      "backgroundSelected" : "#B2D7FFFF"
     },
     "window" : {
-      "color" : "#000000FF",
+      "color" : "#000000D8",
       "paddingHorizontal" : 10,
       "width" : 680,
       "borderPadding" : 10,
       "borderColor" : "#00000000",
-      "blur" : 0,
+      "blur" : 25,
       "roundness" : 3,
       "paddingVertical" : 10
     },
