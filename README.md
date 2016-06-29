@@ -6,7 +6,7 @@
 
 ## Install
 
-[Install the theme](https://www.alfredapp.com/extras/theme/brD39uiykS/).
+[Install the theme](https://www.alfredapp.com/extras/theme/C6TDs1XYnC/).
 
 *You need the [Powerpack](https://www.alfredapp.com/powerpack/) for custom themes.*
 
