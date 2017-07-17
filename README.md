@@ -1,5 +1,7 @@
 # alfred-simple-dark
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/alfred-simple-dark.svg)](https://greenkeeper.io/)
+
 > Simple Dark theme for [Alfred](https://www.alfredapp.com).
 
 <img src="screenshot.png" width="823">
